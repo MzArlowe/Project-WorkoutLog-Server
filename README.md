@@ -1,1 +1,9 @@
-"# Project-WorkoutLog-Server" 
+![EntryLog Success](https://user-images.githubusercontent.com/63788692/141166992-21d45056-d297-4659-8c5c-4cb465f69eda.PNG)
+![Get All Entries - Success](https://user-images.githubusercontent.com/63788692/141166995-409cb62b-fab8-4fd4-8b35-751ead6f659e.PNG)
+![Login Success](https://user-images.githubusercontent.com/63788692/141166998-078b6762-ce03-4b89-b206-7e5d4d95d0f8.PNG)
+![pgAdmin - Logs Successfull](https://user-images.githubusercontent.com/63788692/141166999-9104edba-681d-424d-b14f-ef8f5bf30d2b.PNG)
+![Register Success](https://user-images.githubusercontent.com/63788692/141167000-51d20c1c-d5ba-41cf-b4a1-a95c12c9d290.PNG)
+![User20_GetAll - Success](https://user-images.githubusercontent.com/63788692/141167001-72cf2bcc-3283-4b84-b83f-897897367cac.PNG)
+![User20_GetIndividualLog10 - Success](https://user-images.githubusercontent.com/63788692/141167002-244967b7-7f10-4b81-af7a-ada71ee9ce1d.PNG)
+![User20_Log10Deletion - Success](https://user-images.githubusercontent.com/63788692/141167004-d8b72dd2-e06a-46ce-b1a4-10ef66c157c7.PNG)
+![User20_Log10Update - Success](https://user-images.githubusercontent.com/63788692/141167007-d3de7325-e012-4c36-bfc6-69a9968ca5d0.PNG)
