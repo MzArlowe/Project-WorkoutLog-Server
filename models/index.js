@@ -1,7 +1,7 @@
-const WorkOutModel = require("./workout");
+const LogModel = require("./log");
 const UserModel = require("./user");
 
 module.exports = { 
-    WorkOutModel,
+    LogModel,
     UserModel
 };

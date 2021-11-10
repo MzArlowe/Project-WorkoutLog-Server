@@ -26,6 +26,14 @@ router.post("/", validateJWT, async (req, res) => {
     }
 });
 
+// router.get("/", async (req, res) => {
+//     try {
+//         const entries = await LogModel.findAll()
+//         res.status(201).json(entries)
+//     } catch (err) {
+//         res.status(500).json({ error: err });
+//     }
+// }),
 router.get("/", validateJWT, async (req, res) => {
     const { id } = req.user;
     try {

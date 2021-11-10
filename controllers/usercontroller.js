@@ -6,7 +6,7 @@ const bcrypt = require("bcryptjs");
 
 //this controller is modeled after eleven journal due to it's complexity and necessary security
 
-router.post("/register", async (req, res) => {
+router.post("/register", async (req, res) => { //success
     let { email, password } = req.body.user;
     try {
         const User = await UserModel.create({
@@ -32,7 +32,7 @@ console.log(email, password)
         }
     }
 });
-router.post("/login", async (req, res) => {
+router.post("/login", async (req, res) => { //success
     let { email, password } = req.body.user;
 
     try {
