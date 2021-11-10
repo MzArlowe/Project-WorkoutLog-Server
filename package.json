@@ -1,10 +1,12 @@
 {
-  "name": "server",
+  "name": "workout-log-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Journal for Workout Log",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon"
   },
   "author": "",
   "license": "ISC",
@@ -13,6 +15,7 @@
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
+    "node": "^17.0.1",
     "pg": "^8.7.1",
     "pg-hstore": "^2.3.4",
     "sequelize": "^6.9.0"
