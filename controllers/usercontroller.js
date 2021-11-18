@@ -4,7 +4,7 @@ const { UserModel } = require("../models");
 const jwt = require("jsonwebtoken");
 const bcrypt = require("bcryptjs");
 
-//this controller is modeled after eleven journal due to it's complexity and necessary security. Test Push
+//this controller is modeled after eleven journal due to it's complexity and necessary security. 
 
 router.post("/register", async (req, res) => { //success
     let { email, password } = req.body.user;
